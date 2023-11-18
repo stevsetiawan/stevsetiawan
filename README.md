@@ -6,6 +6,8 @@
 - 📝 In my spare time, I write articles on [Medium](https://stevkarta.medium.com/) about Data Science 
 - 📫 Where to find me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stevanus-setiawan-825209191/)
 - Part of an Artificial Intelligence Team
+- Specialties: Machine Learning, Artificial Intelligence, NLP, Deep Learning, Advanced Analytics, Data Engineering
+
  ---
 
 ### Languages and Tools that I used:
